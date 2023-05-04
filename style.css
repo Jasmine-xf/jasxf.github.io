@@ -10779,3 +10779,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.txt-blue {
+  color: blue;
+}
+
+h1, .h1 {
+  color: blue;
+}
